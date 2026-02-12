@@ -27,6 +27,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+[![wakatime](https://wakatime.com/badge/user/18f8fd12-518d-4ef1-8519-8687f17dad74/project/505c355f-c247-4d70-967c-eca7931a396f.svg)](https://wakatime.com/badge/user/18f8fd12-518d-4ef1-8519-8687f17dad74/project/505c355f-c247-4d70-967c-eca7931a396f)
 ---
 
 ## 🛠️ Tech Stack
