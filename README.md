@@ -42,7 +42,7 @@
  <a href="https://t.me/TheM1racle" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
-  <a href="https://youtube.com/TheM1racle1" target="_blank">
+  <a href="https://youtube.com/@TheM1racle1" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 </p>
