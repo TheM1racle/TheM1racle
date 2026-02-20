@@ -45,6 +45,11 @@
   <a href="https://youtube.com/@TheM1racle1" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
+<a href="https://leetcode.com/u/them1racle/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-white?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/>
+</a>
+  
+  
 </p>
 
 ---
