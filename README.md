@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Student** love to solve hard-problems, learning new thing 
+- 🎓 **Student** love to solve hard-problems, learning new things
 - 🧠 **AI Research Enthusiast** — exploring the frontiers of Artificial Super Intelligence.
 - 💻 **Top Skills:**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> Python&nbsp;&nbsp;
