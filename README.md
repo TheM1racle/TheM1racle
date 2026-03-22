@@ -13,8 +13,9 @@
 - 🎓 **Student** love to solve hard-problems, learning new things
 - 🧠 **AI Research Enthusiast** — exploring the frontiers of Artificial Super Intelligence.
 - 💻 **Top Skills:**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> Python&nbsp;&nbsp;
-- 🌱 **Currently Learning:** *Deep Python*  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="25"/> 
+- 🌱 **Currently Learning:** *Deep Python* && *Deep C*  
 - 📂 **Favorite Projects:** *CLI instruments for ai*
 
 ---
@@ -25,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="35" title="Mint"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  width="35" title="vs code"/>
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35" title="vs code"/> 
 </p>
 
 ---
